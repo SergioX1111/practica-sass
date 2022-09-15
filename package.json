@@ -1,0 +1,11 @@
+{
+  "name": "sergio",
+  "version": "1.0.0",
+  "description": "página distribuidora",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Sergio Veron",
+  "license": "ISC"
+}
